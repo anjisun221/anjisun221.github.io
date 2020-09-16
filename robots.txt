@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: anjisun221.github.io/sitemap.xml
